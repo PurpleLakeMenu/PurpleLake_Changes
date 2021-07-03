@@ -6,11 +6,11 @@ All information below has been posted as we update. The purpose of this is to no
 If you have been given the project to test, there has been an individual agreement with you about how we will handle your updates and game availability.
 Please enjoy the progress!
 
-Video of Purple Lake BO1 - https://www.youtube.com/watch?v=PrjRvcWv9_Q
-Video of Purple Lake BO2 - Coming Soon!
-Video of Purple Lake BO3 - https://www.youtube.com/watch?v=6n0mxB121Bg&t=85s
-Video of Purple Lake MW2 - https://www.youtube.com/watch?v=BfYpmG48c3g
-Video of Purple Lake MW3 - https://www.youtube.com/watch?v=f5bhG5XZOZY
+- Video of Purple Lake BO1 - https://www.youtube.com/watch?v=PrjRvcWv9_Q
+- Video of Purple Lake BO2 - Coming Soon!
+- Video of Purple Lake BO3 - https://www.youtube.com/watch?v=6n0mxB121Bg&t=85s
+- Video of Purple Lake MW2 - https://www.youtube.com/watch?v=BfYpmG48c3g
+- Video of Purple Lake MW3 - https://www.youtube.com/watch?v=f5bhG5XZOZY
 
 # Purple Lake Change Log
 
